@@ -13,4 +13,6 @@ Bazę danych inicjujemy rekordami, których nazwy zaczynają się od słowa "Ite
 Dla tak przygotowanych danych chcemy napisać zapytanie Spring Data JPA, które usunie tylko rekordy 
 o nazwie zaczynającej się od słowa "AppaItem". Dodatkowo pobierzemy i wyświetlimy wszystkie pozostałe w bazie rekordy.
 
+...
+
 Więcej na stronie: <a href="https://www.javappa.com/blog/backend/spring-data-custom-query-modifying-and-transactional" target="_blank">Spring Data Custom Query - Modifying & Transactional</a>
