@@ -16,3 +16,14 @@ o nazwie zaczynającej się od słowa "AppaItem". Dodatkowo pobierzemy i wyświe
 ...
 
 Więcej na stronie: <a href="https://www.javappa.com/blog/backend/spring-data-custom-query-modifying-and-transactional" target="_blank">Spring Data Custom Query - Modifying & Transactional</a>
+
+
+=======================================================
+
+Dla początkujących polecamy również darmowe kursy:
+
+https://www.javappa.com/kurs-java
+
+https://www.javappa.com/kurs-spring
+
+https://www.javappa.com/kurs-angularjs
